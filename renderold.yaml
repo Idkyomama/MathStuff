@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: MathStuff
-    env: docker
-    plan: free
